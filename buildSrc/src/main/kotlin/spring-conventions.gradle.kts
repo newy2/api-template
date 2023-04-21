@@ -4,7 +4,6 @@ plugins {
     id("kotlin-conventions")
     id("org.springframework.boot")
     id("io.spring.dependency-management")
-    kotlin("plugin.spring")
 }
 
 version = "0.0.1-SNAPSHOT"
